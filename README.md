@@ -1,1 +1,1 @@
-my first readme in this repository
+shell,init files,variables and expansions scripts
